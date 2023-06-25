@@ -7,5 +7,5 @@ Dada a ilustração do Jogo PacMan em anexo, construa a solução do jogo em que
 ### Mapa do Jogo 
 
 <div align="center">
-<img src="https://tinypic.host/images/2023/06/25/PacMan.jpeg" alt="PacMan.jpeg" border="0">
+  <a href="https://imgur.com/Q8KdoZn"><img src="https://i.imgur.com/Q8KdoZn.jpg" title="source: imgur.com" /></a>
 </div>
